@@ -1,0 +1,6 @@
+# GNS3 Files
+*.pcap
+
+*.vpc
+
+*.log
