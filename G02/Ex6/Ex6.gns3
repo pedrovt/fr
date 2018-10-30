@@ -70,8 +70,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/1",
-                            "x": -2,
-                            "y": -4
+                            "x": 43,
+                            "y": -41
                         },
                         "node_id": "981f6612-fc6f-475a-9784-1c12292fc818",
                         "port_number": 1
@@ -89,8 +89,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/0",
-                            "x": -14,
-                            "y": 23
+                            "x": -20,
+                            "y": 56
                         },
                         "node_id": "981f6612-fc6f-475a-9784-1c12292fc818",
                         "port_number": 0
@@ -114,7 +114,7 @@
         "nodes": [
             {
                 "compute_id": "local",
-                "console": 5000,
+                "console": 5002,
                 "console_type": "telnet",
                 "first_port_name": null,
                 "height": 48,
@@ -166,7 +166,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5001,
+                "console": 5007,
                 "console_type": "telnet",
                 "first_port_name": null,
                 "height": 48,
@@ -218,7 +218,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5002,
+                "console": 5008,
                 "console_type": "telnet",
                 "first_port_name": null,
                 "height": 48,
