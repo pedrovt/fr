@@ -1,0 +1,11 @@
+cygwin warning:
+  MS-DOS style path detected: C:\Users\Pedro\Documents\UA\FR\FR\G02\Ex6\project-files\dynamips
+  Preferred POSIX equivalent is: /cygdrive/c/Users/Pedro/Documents/UA/FR/FR/G02/Ex6/project-files/dynamips
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+memzone_create_file: open: No such file or directory
+dev_create_ram: mmap: No such file or directory
+RAM: unable to create device.
+load_elf_image: invalid load address 0xffffffff80008000
+C3725 'Ghost': failed to load Cisco IOS image 'C:/Users/Pedro/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image'.
